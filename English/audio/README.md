@@ -16,12 +16,6 @@ https://github.com/elementary2022/2A/assets/122121676/a1dce0a5-d289-48d5-829a-1d
 #### Look and say
 
 
-https://github.com/elementary2022/2A/assets/122121676/effad903-7255-42ca-b369-2a5ced7b01f0
-
-
-#### Look and say
-
-
 https://github.com/elementary2022/2A/assets/122121676/946f1858-f080-4218-99b1-1ff1c4bf3ec4
 
 
