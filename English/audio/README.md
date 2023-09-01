@@ -1,6 +1,6 @@
 # 1A
 ## Module 1 Getting to know you
-### Hello
+### Unit 1 Hello
 #### Look and learn
 
 
@@ -62,6 +62,13 @@ https://github.com/elementary2022/2A/assets/122121676/f08a6f5d-9208-4eca-97a0-9f
 
 
 https://github.com/elementary2022/2A/assets/122121676/f88f6a3e-b075-4592-a712-e0c4734a1258
+
+### Unit 2 I'm Danny
+
+#### Look and learn
+
+
+https://github.com/elementary2022/2A/assets/122121676/680c62cb-90fe-4e01-87ca-cc2d8d99f526
 
 
 #### 1B
