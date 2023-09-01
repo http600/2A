@@ -10,7 +10,8 @@ https://github.com/elementary2022/2A/assets/122121676/746665f5-3fed-4e25-9d38-91
 https://github.com/elementary2022/2A/assets/122121676/d8304f11-fe90-4e31-9ba6-edb3e38d015c
 #### Learn the letters
 https://github.com/elementary2022/2A/assets/122121676/39008c48-7f2c-4811-a50b-f1201f34d977
-### Exercise
+
+----
 #### Listen and number
 https://github.com/elementary2022/2A/assets/122121676/d9282d03-4990-4474-a1d2-cc082c994c3f
 #### Listen and respond
