@@ -11,17 +11,8 @@ https://github.com/elementary2022/2A/assets/122121676/68f973cf-9fec-4202-b0c2-bd
 
 ---
 #### Listen and judge
-
-
 https://github.com/elementary2022/2A/assets/122121676/bde7e8fa-beca-4d35-8297-ac4e65b11a6b
-
 #### Look, listen and respond
-
-
 https://github.com/elementary2022/2A/assets/122121676/230458ac-95b7-453a-8855-79e068fe1e75
-
 #### Task: About me
-
-
 https://github.com/elementary2022/2A/assets/122121676/d740d477-860f-4614-ac55-c804e7a3520c
-
