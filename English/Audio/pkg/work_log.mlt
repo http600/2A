@@ -4,8 +4,8 @@
   <playlist id="main_bin">
     <property name="xml_retain">1</property>
   </playlist>
-  <producer id="black" in="00:00:00.000" out="00:09:17.920">
-    <property name="length">00:09:17.960</property>
+  <producer id="black" in="00:00:00.000" out="00:15:09.600">
+    <property name="length">00:15:09.640</property>
     <property name="eof">pause</property>
     <property name="resource">0</property>
     <property name="aspect_ratio">1</property>
@@ -14,27 +14,26 @@
     <property name="set.test_audio">0</property>
   </producer>
   <playlist id="background">
-    <entry producer="black" in="00:00:00.000" out="00:09:17.920"/>
+    <entry producer="black" in="00:00:00.000" out="00:15:09.600"/>
   </playlist>
-  <chain id="chain0" out="00:31:55.640">
-    <property name="length">00:31:55.680</property>
+  <chain id="chain0" out="00:28:13.000">
+    <property name="length">00:28:13.040</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/puppy/workspace/elementary2022/2A/English/audio/Oxford_Shanghai_2A_1A_Module_1_Unit_1-Module_2_Unit_3.m4a</property>
+    <property name="resource">Oxford_Shanghai_2A_1B_Module_3_Unit_1-Module_4_Unit_3.m4a</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">0</property>
     <property name="video_index">-1</property>
-    <property name="creation_time">2023-08-31T18:11:14</property>
-    <property name="shotcut:hash">37370042f8a8b21b6088247d06218cda</property>
-    <property name="shotcut:caption">Oxford_Shanghai_2A_1A_Module_1_Unit_1-Module_2_Unit_3.m4a</property>
-    <property name="xml">was here</property>
+    <property name="creation_time">2023-08-31T18:12:33</property>
+    <property name="shotcut:hash">b1754e65531ce13b43220c59cb6ad7b7</property>
+    <property name="shotcut:caption">Oxford_Shanghai_2A_1B_Module_3_Unit_1-Module_4_Unit_3.m4a</property>
   </chain>
   <playlist id="playlist0">
     <property name="shotcut:video">1</property>
     <property name="shotcut:name">V1</property>
-    <entry producer="chain0" in="00:22:37.720" out="00:31:55.640"/>
+    <entry producer="chain0" in="00:13:03.400" out="00:28:13.000"/>
   </playlist>
-  <tractor id="tractor0" title="Shotcut version 23.07.29" in="00:00:00.000" out="00:09:17.920">
+  <tractor id="tractor0" title="Shotcut version 23.07.29" in="00:00:00.000" out="00:15:09.600">
     <property name="shotcut">1</property>
     <property name="shotcut:projectAudioChannels">2</property>
     <property name="shotcut:projectFolder">0</property>
