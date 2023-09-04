@@ -12,7 +12,7 @@
 |午休<br/>12:00-12:30|
 |午会课<br/>12:30-12:50|
 |午间休息<br/>12:50-13:00|
-|5<br/>13:00-13:35|数学 Math<br/>Mathematics|语文<br/>Language|体育 P.E.<br/>Physical education|数学 Math<br/>Mathematics|兴趣<br/>Preference|
+|5<br/>13:00-13:35|数学 Math<br/>Mathematics|语文<br/>Language|体育 P.E.<br/>Physical education|数学 Math<br/>Mathematics|兴趣<br/>Preferences|
 |课间10分钟|
 |室外韵律操<br/>13:47-14:02|
 |眼保健操<br/>14:02-14:07|
