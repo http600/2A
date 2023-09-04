@@ -16,6 +16,6 @@
 |课间10分钟|
 |室外韵律操<br/>13:47-14:02|
 |眼保健操<br/>14:02-14:07|
-|6<br/>14:07-14:42|美术<br/>Art&Painting|活动|道德与法治<br/>Morality&Rule of Law|探究<br>Explore&Discovery|班会<br/>Class meeting|
+|6<br/>14:07-14:42|美术<br/>Art&Painting|活动|道德与法治<br/>Morality&Rule of Law|探究<br>Explorer&Discovery|班会<br/>Class meeting|
 |课间10分钟|
 |7<br/>14:54-15:29||自然<br/>Nature|唱游<br/>Music&Game|道德与法治<br/>Morality&Rule of Law||
