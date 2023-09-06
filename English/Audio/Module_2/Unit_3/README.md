@@ -1,4 +1,8 @@
 ### My hair is short
+
+https://github.com/elementary2022/2A/assets/122121676/015f242e-56d3-4da3-a75f-aed2e347912f
+
+
 #### Look and learn
 
 https://github.com/elementary2022/2A/assets/122121676/2e0fd5f0-c32b-4222-b6f2-98f2f2a82b1f
