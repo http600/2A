@@ -1,4 +1,8 @@
 ### In the kitchen
+
+https://github.com/elementary2022/2A/assets/122121676/70e01a48-1491-49cb-9e8a-4aecfefc0368
+
+
 #### Look and learn
 
 https://github.com/elementary2022/2A/assets/122121676/fb8539df-09de-4a13-a7af-3f01e31b8904
