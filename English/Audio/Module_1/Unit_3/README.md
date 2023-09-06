@@ -1,4 +1,8 @@
 ### A new classmate
+
+https://github.com/elementary2022/2A/assets/122121676/5c6d6c94-e29b-4ab3-b2c4-4d80fb1bd44b
+
+
 #### Look and learn
 
 https://github.com/elementary2022/2A/assets/122121676/e9d1553d-2b89-478a-a5b4-79cde72fa37e
