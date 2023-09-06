@@ -1,4 +1,8 @@
 ### I can swim
+
+https://github.com/elementary2022/2A/assets/122121676/ddbe55fc-e81d-4d0f-a3f7-dffcd4beb678
+
+
 #### Look and learn
 https://github.com/elementary2022/2A/assets/122121676/2b929a16-2867-4839-aead-5c8570c0a305
 #### Look and say
