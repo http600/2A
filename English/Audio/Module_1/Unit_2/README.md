@@ -1,4 +1,8 @@
 ### I'm danny
+
+https://github.com/elementary2022/2A/assets/122121676/982226b6-9525-4789-b66b-2123106df017
+
+
 #### Look and learn
 https://github.com/elementary2022/2A/assets/122121676/680c62cb-90fe-4e01-87ca-cc2d8d99f526
 #### Look and say
