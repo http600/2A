@@ -1,4 +1,8 @@
 ### In the playground
+
+https://github.com/elementary2022/2A/assets/122121676/c04b4989-f5fe-4d8e-864f-3c2512c5f876
+
+
 #### Look and learn
 
 https://github.com/elementary2022/2A/assets/122121676/141a790c-f582-4304-9509-047141106276
