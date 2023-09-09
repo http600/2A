@@ -11,4 +11,5 @@ $$
     1{\times}9 & = 9 &     2{\times}9 & = 18 &     3{\times}9 & = 27 &     4{\times}9 & = 36 &     5{\times}9 & = 45 &     6{\times}9 & = 54 &     7{\times}9 & = 63 &     8{\times}9 & = 72 &     9{\times}9 & = 81 & \\
 \end{align*}
 $$
+
 ![Multiplication_Methodology](Multiplication_Table.jpg)
