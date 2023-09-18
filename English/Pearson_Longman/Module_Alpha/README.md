@@ -5,13 +5,13 @@
 #### Language focus
 - ${\color{red}{\textsf{How do you come to school?}}}$
 - I come to school ${\color{red}{\textsf{on foot}}}$:walking:. How do you come to school?
-- I come to school ${\color{red}{\textsf{by}}}$ metro.
-  - ${\color{red}{\textsf{by}}}$ minibus
-  - ${\color{red}{\textsf{by}}}$ school bus
-  - ${\color{red}{\textsf{by}}}$ bicycle
-  - ${\color{red}{\textsf{by}}}$ car
-  - ${\color{red}{\textsf{by}}}$ ferry
-  - ${\color{red}{\textsf{by}}}$ taxi
+- I come to school ${\color{red}{\textsf{by}}}$ metro:metro:.
+  - ${\color{red}{\textsf{by}}}$ minibus:minibus:
+  - ${\color{red}{\textsf{by}}}$ school bus:bus:
+  - ${\color{red}{\textsf{by}}}$ bicycle:bike:
+  - ${\color{red}{\textsf{by}}}$ car:car:
+  - ${\color{red}{\textsf{by}}}$ ferry:ship:
+  - ${\color{red}{\textsf{by}}}$ taxi:taix:
 
 #### Phonics
 ${\color{red}{\textsf{tr}}}$: ${\color{red}{\textsf{tr}}}$am, ${\color{red}{\textsf{tr}}}$ain
