@@ -17,6 +17,6 @@
 #### Phonics
 ${\color{red}{\textsf{tr}}}$: ${\color{red}{\textsf{tr}}}{\textsf{am}}$, ${\color{red}{\textsf{tr}}}{\textsf{ain}}$
 
-${\color{red}{\textsf{fr}}}$: ${\color{red}{\textsf{fr}}}{\textsf{iend}}$, a${\color{red}{\textsf{fr}}}{\textsf{aid}}$
+${\color{red}{\textsf{fr}}}$: ${\color{red}{\textsf{fr}}}{\textsf{iend}}$, ${\textsf{a}}{\color{red}{\textsf{fr}}}{\textsf{aid}}$
 ### [2 About me](./Chapter_2/)
 #### Task: A book about my friends
