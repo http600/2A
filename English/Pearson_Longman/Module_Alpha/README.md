@@ -15,8 +15,8 @@
   - ${\color{red}{\textsf{by}}}$ taxi :taxi:
 
 #### Phonics
-${\color{red}{\textsf{tr}}}$: ${\color{red}{\textsf{tr}}}$am, ${\color{red}{\textsf{tr}}}$ain
+${\color{red}{\textsf{tr}}}$: ${\color{red}{\textsf{tr}}}{\textsf{am}}$, ${\color{red}{\textsf{tr}}}{\textsf{ain}}$
 
-${\color{red}{\textsf{fr}}}$: ${\color{red}{\textsf{fr}}}$iend, a${\color{red}{\textsf{fr}}}$aid
+${\color{red}{\textsf{fr}}}$: ${\color{red}{\textsf{fr}}}{\textsf{iend}}$, a${\color{red}{\textsf{fr}}}{\textsf{aid}}$
 ### [2 About me](./Chapter_2/)
 #### Task: A book about my friends
