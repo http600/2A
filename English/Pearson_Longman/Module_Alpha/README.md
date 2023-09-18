@@ -6,13 +6,13 @@
 - ${\color{red}{\textsf{How do you come to school?}}}$
 - I come to school ${\color{red}{\textsf{on foot}}}$:walking:. How do you come to school?
 - I come to school ${\color{red}{\textsf{by}}}$ metro:metro:.
+  - ${\color{red}{\textsf{by}}}$ bicycle :bike:
+  - ${\color{red}{\textsf{by}}}$ taxi :taxi:
+  - ${\color{red}{\textsf{by}}}$ car :car:
+  - ${\color{red}{\textsf{by}}}$ bus :bus:
   - ${\color{red}{\textsf{by}}}$ minibus :minibus:
   - ${\color{red}{\textsf{by}}}$ school bus :bus::to::school:
-  - ${\color{red}{\textsf{by}}}$ bus :bus:
-  - ${\color{red}{\textsf{by}}}$ bicycle :bike:
-  - ${\color{red}{\textsf{by}}}$ car :car:
   - ${\color{red}{\textsf{by}}}$ ferry :ship:
-  - ${\color{red}{\textsf{by}}}$ taxi :taxi:
 
 #### Phonics
 ${\color{red}{\textsf{tr}}}$: ${\color{red}{\textsf{tr}}}{\textsf{am}}$, ${\color{red}{\textsf{tr}}}{\textsf{ain}}$
