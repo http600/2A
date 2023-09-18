@@ -4,7 +4,7 @@
 #### Task: How we come to school
 #### Language focus
 - ${\color{red}{\textsf{How do you come to school?}}}$
-- I come to school ${\color{red}{\textsf{on foot}}}$. How do you come to school?
+- I come to school ${\color{red}{\textsf{on foot}}}$:walking:. How do you come to school?
 - I come to school ${\color{red}{\textsf{by}}}$ metro.
   - ${\color{red}{\textsf{by}}}$ minibus
   - ${\color{red}{\textsf{by}}}$ school bus
