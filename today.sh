@@ -1,11 +1,12 @@
 #!/usr/bin/env bash
 off=0
-if [ $# -gt 1 ]; then
-    off = $1
+if [[ $# -gt 0 ]]; then
+    off=$1
 fi
 today="$(date -r $(($(date +%s) + $off * 86400)) +%Y'W'%W'/'%m'-'%d)"
 mkdir -p "${today}"
 pushd "${today}"
+touch "README.md"
 for x in Lang Math English; do
     mkdir -p "${x}"
     pushd "${x}"
@@ -18,8 +19,8 @@ md_wk="#### ${wk}"
 mmdd=${today##*/}
 for x in Lang Math English; do
     mkdir -p "${x}"
-    touch "${x}/README.md"
     readme="${x}/README.md"
+    touch "${readme}"
     grep -Fxq "${md_wk}" "${readme}"
     if [[ 1 -eq $(echo $?) ]]; then
         echo >>"${readme}"
