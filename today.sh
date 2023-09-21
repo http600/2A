@@ -15,6 +15,7 @@ for x in Lang Math English; do
 done
 popd
 wk=${today%%/*}
+touch "${wk}/README.md"
 md_wk="#### ${wk}"
 mmdd=${today##*/}
 for x in Lang Math English; do
