@@ -3,7 +3,7 @@ off=0
 if [ $# -gt 1 ]; then
     off = $1
 fi
-today="$(date +%Y'W'%W'/'%m'-'%d)"
+today="$(date -r $(($(date +%s) + $off * 86400)) +%Y'W'%W'/'%m'-'%d)"
 mkdir -p "${today}"
 pushd "${today}"
 for x in Lang Math English; do
